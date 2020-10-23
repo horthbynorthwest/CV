@@ -1,7 +1,6 @@
 ## Georgie Horth
 
-I am an experienced freelance Film Assistnant Director (AD) looking to take my first steps into the world of software development. Assistant Directors (ADs) are the lifeblood of a film production, both in the office and on the set, providing effective communication between multiple departments and stakeholders, in other industries they would be called project managers.  Due to the freelance and short-term nature of the film industry creating effective working relationships quickly is imperative, as is the ability to integrate quickly into new environments.
-
+I am an experienced freelance Film Assistant Director (AD) looking to take my first steps into the world of software development. Assistant Directors (ADs) are the lifeblood of a film production, who often have to problem solve on the fly within a set of requirements. The constant shifting environment of film meant that two days were rarely the same, this means that adaptablity is paramount to effectively find solutions. I see coding as a way to combine many of my interests: languages, logic and creative problem solving. 
 
 ## Projects
 
@@ -34,11 +33,22 @@ I’ve worked in the film industry since my graduation in 2013, I currently run 
 
 ## Skills
 
-#### An Experienced Project Manager
+#### Thrives in fast paced environments
 
-- Able to plan for logistics for large numbers of people
-- Prioritise tasks
-- Keen eye for detail whilst retaining a pragmatic view of the end result.
+- Worked for 7 years under the intene time pressure of a film set
+- Driving the successful delivery of key dance scenes for both Mamma Mia! and Men In Black
+- Running days with 200+ people and adapting to the priorities of the film set.
+
+#### Self Starter Quick Learner
+The film industry does not have a formal training path so it was imperative that I learnt quickly.
+
+- Self trialed and honed methods to pass on information (e.g. continuity maps, continuity databases)
+- Adaptable
+- Quick and interested learner
+- Ability to integrate quickly into new environments
+
+Due to the freelance and short-term nature of the film industry creating effective working relationships quickly is imperative, as is the ability to integrate quickly into new environments.
+
 
 #### Effective communicator at all levels
 
@@ -57,11 +67,11 @@ The film industry is one that flows through effective and concise communication,
   - Co-ordinate with stunt and SFX (Special Effects) co-ordinators to establish safety requirements
   - Co-ordinating with VFX (Visual Effects), Costume & Make Up Departments to ensure VFX requirements were met
 
-#### Thrives in fast paced environments
+#### An Experienced Project Manager
 
-- Worked for 7 years under the intene time pressure of a film set
-- Driving the successful delivery of key dance scenes for both Mamma Mia! and Men In Black
-- Running days with 200+ people and adapting to the priorities of the film set.
+- Able to plan for logistics for large numbers of people
+- Prioritise tasks
+- Keen eye for detail whilst retaining a pragmatic view of the end result.
 
 ## Education
 
