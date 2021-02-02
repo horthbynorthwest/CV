@@ -6,8 +6,8 @@ I am an experienced freelance Film Assistant Director (AD) looking to take my fi
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [**Petential**](https://github.com/horthbynorthwest/petential)             | A webapp to do help track your pets needs. | Django, PostgreSQL, React. |
+| [**SCLZ**](https://github.com/horthbynorthwest/acebook-SCLZ) | A facebook clone. | Ruby, Ruby on Rails, JavaScript, PostgreSQL, Travis, Heroku, RSpec, Capybara, Simplecov               |
 
 ## Experience
 
