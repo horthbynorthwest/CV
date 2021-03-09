@@ -16,17 +16,17 @@ Having recently finished [Makers]( https://makers.tech/) 12 week bootcamp I fell
 
 ## Skills
 
-### Communication
+#### Communication
 The film industry is one that flows through effective and concise communication, with an ability to synthesise and adapt the information to be understandable across all levels. Different departments and levels within those departments will require vastly different knowledge from purely technical, to solutions, to key overviews. Trust between departments is an integral part of film, without being able to be understood or to listen and value the input from other departments/people trust is a hard thing to build. 
 
-### Adaptable
+#### Adaptable
 In film no two jobs present the same challenges and that is also true on a micro level too, no two days are ever the same, so being able to adapt to the environment presented is an invaluable skill. I thrive in an environment where I'm challenged: new crew, new project, new language there's always a way to get stuck in.
 
-### Self Driven Quick Learner 
+#### Self Driven Quick Learner 
 
 The film industry does not have a formal training path so it was imperative that I learnt quickly, it's very much a sink or swim environment. This also bled into my time at Makers, my final project was completed in Python, Django and React all of which I had no prior experience. Python has continued to be a loved part of my post-Makers learning journey.
 
-### Detail Oriented
+#### Detail Oriented
 
 From proof reading important project documents, to cross checking multiple documents at the same time, get that consistent detail correct has been something honed under many film projects to the point where it's almost second nature. This also comes across in my code; seeing how the whole code hangs together and also being able to trace a bug.
 
@@ -35,7 +35,7 @@ From proof reading important project documents, to cross checking multiple docum
 **Sunquill Production Ltd** (August 2014 to present)  
 I’ve worked in the film industry since my graduation in 2013, I currently run my own company that provides AD services to the film industry. A full film CV can be provided, some key credits include:
 
-### Mamma Mia! 2: Here We Go Again – Senior Crowd/Dancer AD
+#### Mamma Mia! 2: Here We Go Again – Senior Crowd/Dancer AD
  - Primary Contact of 250+ dancers and their agents
  - Plan for costume & make up requirements, rehearsal schedules and filming requirements:
 	 - Inquire about deadlines for costume & make up fittings and book accordingly
@@ -48,14 +48,14 @@ I’ve worked in the film industry since my graduation in 2013, I currently run 
 	 - The weather is bad so we're changing the order of what we're shooting. The dancers you have coming in at 2pm are now needed to be in at 11am. It's 9:00am.
 	 
 
- ### Men In Black: International – Senior Crowd/Dancer AD
+ #### Men In Black: International – Senior Crowd/Dancer AD
  - Brought in last minute to trouble shoot a key dance sequence
  - Intensive 3 week, deadline orientated role
  - Sourced an audition space and 250+ dancers within 3 days of starting
  - Responsible for a budget of £300,000
  - Balancing budgets and schedules for the most efficient use of time for all the for costume & make up requirements, rehearsal schedules and filming requirements
 
- ### Maleficent 2 – Crowd AD
+ #### Maleficent 2 – Crowd AD
  - Managed 150 crowd and stunt personnel on set around several dangerous stunts and explosions
  - Co-ordinate with stunt and SFX co-ordinators to establish safety requirements
 
