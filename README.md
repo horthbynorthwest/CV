@@ -17,7 +17,7 @@ Having recently finished [Makers]( https://makers.tech/) 12 week bootcamp I fell
 ## Skills
 
 #### Communication
-The film industry is one that flows through effective and concise communication, with an ability to synthesise and adapt the information to be understandable across all levels. Different departments and levels within those departments will require vastly different knowledge from purely technical, to solutions, to key overviews. Trust between departments is an integral part of film, without being able to be understood or to listen and value the input from other departments/people trust is a hard thing to build. 
+Both strong listening and verbalisation skills are key for being successful in film, particularly as an Assistant Director (who are essentially the nervous system of a film set). Different departments and levels within those departments require a vastly different knowledge set from purely technical, to solutions, to key overviews. Over the years I've developed the ability to effectively communicate across all levels with the relevant details, on many occasions I have become the go to for information.
 
 #### Adaptable
 In film no two jobs present the same challenges and that is also true on a micro level too, no two days are ever the same, so being able to adapt to the environment presented is an invaluable skill. I thrive in an environment where I'm challenged: new crew, new project, new language there's always a way to get stuck in.
