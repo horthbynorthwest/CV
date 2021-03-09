@@ -4,7 +4,7 @@
 
 I am a full stack junior developer with an interest in the back-end. My history in film has given me an ability to balance the requirements of many different departments whilst still focusing on the end goal of a project. Coding, for me, is a way to combine many of my interests: languages, logic and creative problem solving. 
 
-Having recently finished [Makers]( https://makers.tech/) 12 week bootcamp I fell in love with clean, well tested code. I also realised that what I loved about my previous job had significant overlap with writing code beyond problem solving: I love seeing how things fit together. In film it was how people fit together and how best to stream line that, in software development it's how code interacts to create the desired end result.
+Having recently finished [Makers]( https://makers.tech/) 12 week bootcamp I fell in love with clean, well tested code. I also realised that what I cherished about my previous job had significant overlap with writing code beyond problem solving: I get huge satisfaction from seeing how things fit together. In film it was how people fit together and how best to stream line that, in software development it's how code interacts to create the desired end result.
 
 ## Projects
 
@@ -28,7 +28,7 @@ The film industry does not have a formal training path so it was imperative that
 
 #### Detail Oriented
 
-From proof reading important project documents, to cross checking multiple documents at the same time, get that consistent detail correct has been something honed under many film projects to the point where it's almost second nature. This also comes across in my code; seeing how the whole code hangs together and also being able to trace a bug.
+From proof reading important project documents, to cross checking multiple documents at the same time, getting that consistent detail correct has been something honed under many film projects to the point where it's almost second nature. This also comes across in my code; seeing how the whole code hangs together and also being able to trace a bug.
 
 ## Experience
 
@@ -44,7 +44,7 @@ I’ve worked in the film industry since my graduation in 2013, I currently run 
  - Responsible for a budget of £1.2 million
  - Hourly adjustments to accommodate shifting filming schedule. Some examples include:
 	 - The first shot has changed and needing to react efficiently to the news to get what is needed done within the time remaining.
-	 - The shooting schedule has changed and we need to book dancers for additional days that have not been budgeted or checked for.
+	 - The shooting schedule has changed and we needed to book dancers for additional days that have not been budgeted or checked for.
 	 - The weather is bad so we're changing the order of what we're shooting. The dancers you have coming in at 2pm are now needed to be in at 11am. It's 9:00am.
 	 
 
@@ -53,7 +53,7 @@ I’ve worked in the film industry since my graduation in 2013, I currently run 
  - Intensive 3 week, deadline orientated role
  - Sourced an audition space and 250+ dancers within 3 days of starting
  - Responsible for a budget of £300,000
- - Balancing budgets and schedules for the most efficient use of time for all the for costume & make up requirements, rehearsal schedules and filming requirements
+ - Balancing budgets and schedules for the most efficient use of time for all the costume & make up requirements, rehearsal schedules and filming requirements
 
  #### Maleficent 2 – Crowd AD
  - Managed 150 crowd and stunt personnel on set around several dangerous stunts and explosions
