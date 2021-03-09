@@ -1,77 +1,64 @@
-## Georgie Horth
+# Georgie Horth
 
-I am an experienced freelance Film Assistant Director (AD) looking to take my first steps into the world of software development. Assistant Directors (ADs) are the lifeblood of a film production, who often have to problem solve on the fly within a set of requirements. The constant shifting environment of film meant that two days were rarely the same, this means that adaptablity is paramount to effectively find solutions. I see coding as a way to combine many of my interests: languages, logic and creative problem solving. 
+| [Linked-In](https://www.linkedin.com/in/georgie-horth-481961205/) | [Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Hobbies](#Hobbies) |
+
+I am a full stack junior developer with an interest in the back-end. My history in film has given me an ability to balance to requirements of many different departments whilst still focusing on the end goal of a project. Coding, for me, is a way to combine many of my interests: languages, logic and creative problem solving. 
+
+Having recently finished [Makers]( https://makers.tech/) 12 week bootcamp I fell in love with clean, well tested code. I also realised that what I loved about my previous job had significant overlap with writing code beyond problem solving: I love seeing how things fit together. In film it was how people fit together and how best to stream line that, in software development it's how code interacts to create the desired end result.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Petential**](https://github.com/horthbynorthwest/petential)             | A webapp to do help track your pets needs. | Django, PostgreSQL, React. |
-| [**SCLZ**](https://github.com/horthbynorthwest/acebook-SCLZ) | A facebook clone. | Ruby, Ruby on Rails, JavaScript, PostgreSQL, Travis, Heroku, RSpec, Capybara, Simplecov               |
+| [**Petential**](https://github.com/stringiest/petential_extension)             | Makers final project. A webapp to do help track your pets daily needs. You can add a meal, treats, a walk and check the local weather where you are.| Python, Django, unittest, PostgreSQL, JavaScript, React, Jest, Material-UI, OpenWeather API. |
+| [**SCLZ**](https://github.com/horthbynorthwest/acebook-SCLZ) | A facebook clone which was built as a group project using an agile process. Our users can make an account, send and accept friend requests, post, edit and delete text and photo posts, comment and like on others posts as well as seeing a list of yours and other users friends. | Ruby, Ruby on Rails, JavaScript, PostgreSQL, Travis, Heroku, RSpec, Capybara, Simplecov               |
+| [**Sudoku Solver**](https://github.com/horthbynorthwest/sudoku_solver) | A python file which solves Sudoku puzzles using backtracking. | Python |
+
+## Skills
+
+### Communication
+The film industry is one that flows through effective and concise communication, with an ability to synthesise and adapt the information to be understandable across all levels. Different departments and levels within those departments will require vastly different knowledge from purely technical, to solutions, to key overviews. Trust between departments is an integral part of film, without being able to be understood or to listen and value the input from other departments/people trust is a hard thing to build. 
+
+### Adaptable
+In film no two jobs present the same challenges and that is also true on a micro level too, no two days are ever the same, so being able to adapt to the environment presented is an invaluable skill. I thrive in an environment where I'm challenged: new crew, new project, new language there's always a way to get stuck in.
+
+### Self Driven Quick Learner 
+
+The film industry does not have a formal training path so it was imperative that I learnt quickly, it's very much a sink or swim environment. This also bled into my time at Makers, my final project was completed in Python, Django and React all of which I had no prior experience. Python has continued to be a loved part of my post-Makers learning journey.
+
+### Detail Oriented
+
+From proof reading important project documents, to cross checking multiple documents at the same time, get that consistent detail correct has been something honed under many film projects to the point where it's almost second nature. This also comes across in my code; seeing how the whole code hangs together and also being able to trace a bug.
 
 ## Experience
 
 **Sunquill Production Ltd** (August 2014 to present)  
 I’ve worked in the film industry since my graduation in 2013, I currently run my own company that provides AD services to the film industry. A full film CV can be provided, some key credits include:
 
-- Mamma Mia! 2: Here We Go Again – Senior Crowd/Dancer AD
-  - Primary Contact of 250+ dancers and their agents
-  - Plan for costume & make up requirements, rehearsal schedules and filming requirements
-  - Responsible for a budget of £1.2 million
-  - Daily adjustments to accomadate shifting filming schedule
+### Mamma Mia! 2: Here We Go Again – Senior Crowd/Dancer AD
+ - Primary Contact of 250+ dancers and their agents
+ - Plan for costume & make up requirements, rehearsal schedules and filming requirements:
+	 - Inquire about deadlines for costume & make up fittings and book accordingly
+	 - Balance choreography, cast and shooting requirements before booking the dancer, organising contracts and transport to and from the studio/location.
+	 - Being aware of financial implications of filming requirements and highlighting them to allow for a happy medium.
+ - Responsible for a budget of £1.2 million
+ - Hourly adjustments to accommodate shifting filming schedule. Some examples include:
+	 - The first shot has changed and needing to react efficiently to the news to get what is needed done within the time remaining.
+	 - The shooting schedule has changed and we need to book dancers for additional days that have not been budgeted or checked for.
+	 - The weather is bad so we're changing the order of what we're shooting. The dancers you have coming in at 2pm are now needed to be in at 11am. It's 9:00am.
+	 
 
-- Men In Black: International – Senior Crowd/Dancer AD
-  - Brought in last minute to trouble shoot a key dance sequence
-  - Intensive 3 week, deadline orientated role
-  - Put together an audition of 250+ dancers in 3 days
-  - Responsible for a budget of £300,000
-  - Plan for costume & make up requirements, rehearsal schedules and filming requirements
+ ### Men In Black: International – Senior Crowd/Dancer AD
+ - Brought in last minute to trouble shoot a key dance sequence
+ - Intensive 3 week, deadline orientated role
+ - Sourced an audition space and 250+ dancers within 3 days of starting
+ - Responsible for a budget of £300,000
+ - Balancing budgets and schedules for the most efficient use of time for all the for costume & make up requirements, rehearsal schedules and filming requirements
 
-- Maleficent 2 – Crowd AD
-  - Managed 150 crowd and stunt personnel on set around several dangerous stunts and explosions
-  - Co-ordinate with stunt and SFX co-ordinators to establish safety requirements
+ ### Maleficent 2 – Crowd AD
+ - Managed 150 crowd and stunt personnel on set around several dangerous stunts and explosions
+ - Co-ordinate with stunt and SFX co-ordinators to establish safety requirements
 
-## Skills
-
-#### Thrives in fast paced environments
-
-- Worked for 7 years under the intene time pressure of a film set
-- Driving the successful delivery of key dance scenes for both Mamma Mia! and Men In Black
-- Running days with 200+ people and adapting to the priorities of the film set.
-
-#### Self Starter Quick Learner
-The film industry does not have a formal training path so it was imperative that I learnt quickly.
-
-- Self trialed and honed methods to pass on information (e.g. continuity maps, continuity databases)
-- Adaptable
-- Quick and interested learner
-- Ability to integrate quickly into new environments
-
-Due to the freelance and short-term nature of the film industry creating effective working relationships quickly is imperative, as is the ability to integrate quickly into new environments.
-
-
-#### Effective communicator at all levels
-
-The film industry is one that flows through effective and concise communication, with an ability to synthesize and adapt the information to be understandable across all levels. 
-
-- Mamma Mia! 2: Here We Go Again:
-  - The primary contact of 250+ dancers and their agents
-  - Costume, Make up and Choreographer requirements
-  - Travel requirements established between Transport, Production, Choreographer, individual dancers and their agents
-  
-- Men In Black: International:
-  - The primary contact of 50 dancers and their agents
-  - Sourcing 250+ dancers and rehearsal space for auditions in 3 days
-
-- Maleficent 2:
-  - Co-ordinate with stunt and SFX (Special Effects) co-ordinators to establish safety requirements
-  - Co-ordinating with VFX (Visual Effects), Costume & Make Up Departments to ensure VFX requirements were met
-
-#### An Experienced Project Manager
-
-- Able to plan for logistics for large numbers of people
-- Prioritise tasks
-- Keen eye for detail whilst retaining a pragmatic view of the end result.
 
 ## Education
 
@@ -79,8 +66,8 @@ The film industry is one that flows through effective and concise communication,
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Python, Django
+- RSpec, Jasmine, React, Pytest, Unittest
 
 #### University of Nottingham (2010-2013)
 
