@@ -2,7 +2,7 @@
 
 | [Linked-In](https://www.linkedin.com/in/georgie-horth-481961205/) | [Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Hobbies](#Hobbies) |
 
-I am a full stack junior developer with an interest in the back-end. My history in film has given me an ability to balance to requirements of many different departments whilst still focusing on the end goal of a project. Coding, for me, is a way to combine many of my interests: languages, logic and creative problem solving. 
+I am a full stack junior developer with an interest in the back-end. My history in film has given me an ability to balance the requirements of many different departments whilst still focusing on the end goal of a project. Coding, for me, is a way to combine many of my interests: languages, logic and creative problem solving. 
 
 Having recently finished [Makers]( https://makers.tech/) 12 week bootcamp I fell in love with clean, well tested code. I also realised that what I loved about my previous job had significant overlap with writing code beyond problem solving: I love seeing how things fit together. In film it was how people fit together and how best to stream line that, in software development it's how code interacts to create the desired end result.
 
