@@ -17,18 +17,14 @@ Having recently finished [Makers]( https://makers.tech/) 12 week bootcamp I fell
 ## Skills
 
 #### Communication
-Both strong listening and verbalisation skills are key for being successful in film, particularly as an Assistant Director (who are essentially the nervous system of a film set). Different departments and levels within those departments require a vastly different knowledge set from purely technical, to solutions, to key overviews. Over the years I've developed the ability to effectively communicate across all levels with the relevant details, on many occasions I have become the go to for information.
+Both strong listening and verbalisation skills are key for being successful in film, particularly as an Assistant Director (who are essentially the nervous system of a film set). Different departments and levels within those departments require a vastly different knowledge set from purely technical, to solutions, to key overviews. Over the years I've developed the ability to effectively communicate across all levels with the relevant details, on many occasions I have become the go to for information. This has proven itself to be infinitely useful throughout my time at Makers, both with daily pair programming and group work. 
 
 #### Adaptable
-In film no two jobs present the same challenges and that is also true on a micro level too, no two days are ever the same, so being able to adapt to the environment presented is an invaluable skill. I thrive in an environment where I'm challenged: new crew, new project, new language there's always a way to get stuck in.
-
-#### Self Driven Quick Learner 
-
-The film industry does not have a formal training path so it was imperative that I learnt quickly, it's very much a sink or swim environment. This also bled into my time at Makers, my final project was completed in Python, Django and React all of which I had no prior experience. Python has continued to be a loved part of my post-Makers learning journey.
+The film industry does not have a formal training path so it was imperative that I was a self starter and that I learnt quickly, it's very much a sink or swim environment. You have to learn very quickly where you fit in within a team and what holes you're going to be plugging. In film no two jobs present the same challenges and that is also true on a micro level too, no two days are ever the same, so being able to adapt to the environment presented is an invaluable skill. I thrive in an environment where I'm challenged: new crew, new project or new framework, there's always a way to get stuck in. This also bled into my time at Makers, both within finding my place within a group and with my final project, which was completed in Python, Django and React all of which I had no prior experience. 
 
 #### Detail Oriented
+From proof reading important project documents, to cross checking multiple documents at the same time, getting that consistent detail correct has been something honed under many film projects to the point where it's almost second nature. This also comes across in my code; seeing how the whole codebase hangs together and also being able to trace a bug.
 
-From proof reading important project documents, to cross checking multiple documents at the same time, getting that consistent detail correct has been something honed under many film projects to the point where it's almost second nature. This also comes across in my code; seeing how the whole code hangs together and also being able to trace a bug.
 
 ## Experience
 
@@ -64,23 +60,18 @@ I’ve worked in the film industry since my graduation in 2013, I currently run 
 
 #### Makers Academy (October 2020 to January 2021)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, Python, Django
-- RSpec, Jasmine, React, Pytest, Unittest
+- Object Oriented Programming 
+- Test Driven Development (Rspec, Jasmine, Jest, Pytest, Unittest)
+- Agile Methodologies
+- SQL (PostgreSQL, SQLite)
+- Fullstack frameworks (Ruby on Rails, Django, React)
+- Git, Travis CI, Heroku
+- Pair Programming & Group Projects
+- Project planning
 
 #### University of Nottingham (2010-2013)
 
-- Theology and Religious Studies(2.1)
-- Dissertation: Hindu Social Identity: To what extent, if at all, are Advaita Vedanta and the Caste System reconcilable?
-- Theology offered a wide range of intellectual challenges that would require taking several other humanity disciplines to cover. As an atheist, I believe that theology is more than the sum of its parts, and, in my opinion, is the story of humanity.
-
-#### Hockerill Anglo-European College (2003-2010)
-- International Baccalaureate, 32 points (2008-2010)
-  - Highers Levels: Chemistry, English, History
-  - Standard Levels: German, Maths (Studies), Music
-  - Extended Essay: Who Made the Bayeaux Tapestry?
-- GCSEs (2004-2008), 4 A stars (including German Summer 2006), 7 A's (including Maths Summer 2007), 2 B's 
+- Theology and Religious Studies (2.1)
 
 
 ## Hobbies
