@@ -2,7 +2,7 @@
 
 | [Linked-In](https://www.linkedin.com/in/georgie-horth-481961205/) | [Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Hobbies](#Hobbies) |
 
-I am a full stack junior developer with an interest in the back-end. My history in film has given me an ability to balance the requirements of many different departments whilst still focusing on the end goal of a project. Coding, for me, is a way to combine many of my interests: languages, logic and creative problem solving. 
+I am a full stack junior developer with an interest in the back-end. My history in film has given me an ability to balance the requirements of many different departments whilst still focusing on the end goal of a project. Coding, for me, is a way to combine many of my interests, such as: languages, logic and creative problem solving. 
 
 Having recently finished [Makers]( https://makers.tech/) 12 week bootcamp I fell in love with clean, well tested code. I also realised that what I cherished about my previous job had significant overlap with writing code beyond problem solving: I get huge satisfaction from seeing how things fit together. In film it was how people fit together and how best to stream line that, in software development it's how code interacts to create the desired end result.
 
@@ -32,12 +32,12 @@ From proof reading important project documents, to cross checking multiple docum
 I’ve worked in the film industry since my graduation in 2013, I currently run my own company that provides AD services to the film industry. A full film CV can be provided, some key credits include:
 
 #### Mamma Mia! 2: Here We Go Again – Senior Crowd/Dancer AD
+ - Responsible for a budget of £1.2 million
  - Primary Contact of 250+ dancers and their agents
  - Plan for costume & make up requirements, rehearsal schedules and filming requirements:
 	 - Inquire about deadlines for costume & make up fittings and book accordingly
 	 - Balance choreography, cast and shooting requirements before booking the dancer, organising contracts and transport to and from the studio/location.
 	 - Being aware of financial implications of filming requirements and highlighting them to allow for a happy medium.
- - Responsible for a budget of £1.2 million
  - Hourly adjustments to accommodate shifting filming schedule. Some examples include:
 	 - The first shot has changed and needing to react efficiently to the news to get what is needed done within the time remaining.
 	 - The shooting schedule has changed and we needed to book dancers for additional days that have not been budgeted or checked for.
@@ -45,10 +45,10 @@ I’ve worked in the film industry since my graduation in 2013, I currently run 
 	 
 
  #### Men In Black: International – Senior Crowd/Dancer AD
+ - Responsible for a budget of £300,000
  - Brought in last minute to trouble shoot a key dance sequence
  - Intensive 3 week, deadline orientated role
  - Sourced an audition space and 250+ dancers within 3 days of starting
- - Responsible for a budget of £300,000
  - Balancing budgets and schedules for the most efficient use of time for all the costume & make up requirements, rehearsal schedules and filming requirements
 
  #### Maleficent 2 – Crowd AD
